@@ -26,9 +26,8 @@ MKE-K06 phù hợp cho:
 
 | Thông số               | Giá trị                         |
 | ---------------------- | ------------------------------- |
-| **Model**              | MKE-K06                         |
-| **Tên sản phẩm**       | STM32F103C8T6 Blue Pill Dev Kit |
-| **Vi điều khiển**      | STM32F103C8T6 chính hãng STMicroelectronics|
+| **Model**              | MKE-K06 STM32F103C8T6 Blue Pill Dev Kit |
+| **Vi điều khiển**      | STM32F103C8T6 chính hãng STMicroelectronics |
 | **Kiến trúc**          | ARM Cortex-M3 32-bit            |
 | **Điện áp cấp nguồn**  | 5VDC qua cổng USB-C             |
 | **Điện áp GPIO**       | TTL 3.3VDC                      |
