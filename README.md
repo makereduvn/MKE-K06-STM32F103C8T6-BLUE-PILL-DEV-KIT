@@ -45,8 +45,6 @@ MKE-K06 phù hợp cho:
 | **IAR**                | Hỗ trợ                          |
 | **Kích thước**         | 53.34 × 22.86mm                 |
 
-> **Lưu ý:** Các chân GPIO sử dụng mức logic **3.3VDC**. Không cấp trực tiếp tín hiệu 5V vào các chân GPIO nếu thiết bị ngoại vi không tương thích với mức logic 3.3V.
-
 ![MKE-K06 STM32F103C8T6 DK](/extras/MKE-K06_0.png)
 
 ## Hướng dẫn sử dụng
