@@ -47,6 +47,11 @@ MKE-K06 phù hợp cho:
 
 ![MKE-K06 STM32F103C8T6 DK](/extras/MKE-K06_0.png)
 
+| Nút nhấn | Chức năng                  |
+| :-------: | :------------------------- |
+| RST     | Kéo chân Reset của STM32F103C8T8 xuống GND, vi điều khiển khởi động lại chương trình.    |
+| BOOT0     | Kéo chân Boot0 của STM32F103C8T8 xuống GND, vi điều khiển boot từ bộ nhớ flash chính.  |
+
 ## Hướng dẫn sử dụng
 
 Tham khảo [hướng dẫn sử dụng chi tiết tại đây.](https://deepbluembedded.com/stm32-blue-pill-pinout-programming-guide/)
