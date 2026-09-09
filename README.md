@@ -63,6 +63,9 @@ MKE-K06 phù hợp cho:
 
 Tham khảo [hướng dẫn sử dụng chi tiết tại đây.](https://deepbluembedded.com/stm32-blue-pill-pinout-programming-guide/)
 
+## Schematic
+![MKE-K06 STM32F103C8T6 DK](/extras/MKE-K06_4.png)
+
 ## Kích thước sản phẩm
 ![MKE-K06 STM32F103C8T6 DK](/extras/MKE-K06_1.jpg)
 
