@@ -59,7 +59,7 @@ MKE-K06 phù hợp cho:
 | 0 | 1 | **Bộ nhớ hệ thống (System memory)** | Bộ nhớ hệ thống được chọn làm vùng khởi động |
 | 1 | 1 | **SRAM tích hợp (Embedded SRAM)** | SRAM tích hợp được chọn làm vùng khởi động |
 
-> **⚠️ Lưu ý:** Mặc định, các chân **BOOT0** và **BOOT1** được kéo xuống **GND thông qua điện trở 10 kΩ**, do đó cả hai chân ở mức **LOW (0)** khi không có tín hiệu điều khiển bên ngoài. Với cấu hình mặc định **BOOT1 = 0** và **BOOT0 = 0**, vi điều khiển sẽ khởi động từ **Bộ nhớ Flash chính (Main Flash memory)**.
+> **⚠️ Lưu ý:** Mặc định, các chân **BOOT0** và **BOOT1** được kéo xuống **GND thông qua điện trở 1kΩ**, do đó cả hai chân ở mức **LOW (0)** khi không có tín hiệu điều khiển bên ngoài. Với cấu hình mặc định **BOOT1 = 0** và **BOOT0 = 0**, vi điều khiển sẽ khởi động từ **Bộ nhớ Flash chính (Main Flash memory)**.
 
 ## Hướng dẫn sử dụng
 
