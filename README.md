@@ -48,7 +48,7 @@ MKE-K06 phù hợp cho:
 ![MKE-K06 STM32F103C8T6 DK](/extras/MKE-K06_0.png)
 
 | Nút nhấn | Chức năng                  | Mô tả |
-| :-------: | :------------------------- | :------------------------- |
+| :-------: | :-------------------------: | ------------------------- |
 | RST     | Reset| Khi nhấn vi điều khiển khởi động lại chương trình. |
 | BOOT0     |Boot Mode| Khi nhấn chân Boot0 của STM32F103C8T8 kéo lên HIGH (mức 1), chuyển sang chế độ boot từ **Bộ nhớ hệ thống (System memory)** |
 
